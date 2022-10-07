@@ -53,5 +53,3 @@ def task(csvString):
         arr_r5 += level
 
     return [arr_r1, arr_r2, arr_r3, arr_r4, arr_r5]
-
-    return levels
